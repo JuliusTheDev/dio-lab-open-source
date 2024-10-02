@@ -7,7 +7,7 @@
 Repositório desenvolvido para fins educacionais, com a proposta de implementar virtualmente o **Jogo da Onça**, um jogo indígena tradicional, como parte de um projeto apresentado no congresso **CONEDU 2024**. O objetivo é preservar e divulgar a cultura indígena brasileira por meio da tecnologia, proporcionando uma experiência digital acessível para todas as idades.
 
 [![Link para o Projeto](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=game-controller&logoColor=E94D5F)](https://web.conedu.com/jogo-da-onca/) 
-[![Link para o Artigo](https://img.shields.io/badge/Acesse%20o%20Artigo-E94D5F?style=for-the-badge)]([https://drive.google.com/file/d/1dgJYV9q79-fSup2nGgBPtICHgzlw4Yy3/view?usp=drive_link])
+[![Link para o Artigo](https://img.shields.io/badge/Acesse%20o%20Artigo-E94D5F?style=for-the-badge)](https://drive.google.com/file/d/1dgJYV9q79-fSup2nGgBPtICHgzlw4Yy3/view?usp=drive_link)
 
 ## Objetivo
 Desenvolver uma versão digital e interativa do **Jogo da Onça**, preservando as regras e dinâmicas do jogo original, enquanto traz uma abordagem moderna e acessível. Este projeto visa não apenas a diversão, mas também a conscientização sobre a importância da cultura indígena no Brasil.
