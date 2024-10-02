@@ -56,7 +56,7 @@ Desenvolver uma versão digital e interativa do **Jogo da Onça**, preservando a
 Agora que você já conhece os detalhes do Jogo da Onça, você pode contribuir para o desenvolvimento deste projeto! Para isso, faça o **fork** deste repositório, desenvolva sua melhoria ou funcionalidade, e envie um pull request. Se preferir, você também pode participar reportando bugs ou sugerindo novas funcionalidades.
 
 > [!NOTE]   
-> Por exemplo, a URL https://github.com/seuusuario/jogo-da-onca é o "**fork**" feito por você para a contribuição no repositório `jogo-da-onca`.
+> Por exemplo, a URL https://github.com/SeuUsuario/Forum-Jogo-da-Onca é o "**fork**" feito por você para a contribuição no repositório `jogo-da-onca`.
 
 ### Sugestões para Contribuição
 Você pode contribuir ao adicionar novas funcionalidades, melhorando a interface do usuário, ou até mesmo criando versões alternativas do jogo, inspiradas em outras culturas. Algumas áreas para explorar:
